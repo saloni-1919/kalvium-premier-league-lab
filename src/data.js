@@ -1,4 +1,4 @@
-var players = [
+var data = [
   {
     name: "Luka Modric",
     age: 33,
